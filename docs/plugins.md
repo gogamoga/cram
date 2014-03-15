@@ -1,2 +1,3 @@
-Creating cram plugins
-=====================
+cram.js plugins
+===============
+
