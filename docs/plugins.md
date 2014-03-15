@@ -1,5 +1,5 @@
-cram.js plugins
-===============
+authoring cram.js plugins
+=========================
 
 
 
